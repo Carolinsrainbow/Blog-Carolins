@@ -13,7 +13,21 @@ const routes = [
     name: 'home',
     component: Home
   },
-
+  {
+    path: '/pymes',
+    name: 'pymes',
+    component: pymes
+  },
+  {
+    path: '/musica',
+    name: 'musica',
+    component: musica
+  },
+  {
+    path: '/viajes',
+    name: 'viajes',
+    component: viajes
+  },
 ]
 
 const router = new VueRouter({
