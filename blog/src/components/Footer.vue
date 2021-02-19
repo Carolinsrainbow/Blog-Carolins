@@ -9,10 +9,14 @@
                             <p>CONTACTO</p>
         </div>
            <div class="col-4">
-               <p>INSTAGRAM</p>
-                 <p>TIKTOK</p>
-                   <p>VSCO</p>
-                     <p>YOUTUBE</p>
+<p> <a href="https://www.instagram.com/carolinsrainbow/"> INSTAGRAM </a></p>
+<p>  <a href="https://www.tiktok.com/@carolinsrainbow?lang=es">TIKTOK </a> </p>
+     <p>  <a href="https://vsco.co/carolinsrainbow/gallery"> VSCO </a> </p>         
+<p>  <a href="https://www.youtube.com/user/Carolinsrainbow">YOUTUBE </a> </p>
+   
+     
+
+                
         </div>
     </div>
 </div>
@@ -30,8 +34,4 @@ export default {
 <style>
 #encabezado{
     background-color:#66ffff};
-
-    .col{
-margin: 3%;
-    }
 </style>

@@ -1,11 +1,5 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/pymes">Pymes</router-link> |
-           <router-link to="/viajes">Viajes</router-link> |
-                <router-link to="/musica">Música</router-link> |
-    </div>
     <router-view/>
   </div>
 </template>

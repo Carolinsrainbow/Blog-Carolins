@@ -1,14 +1,16 @@
 <template>
   <div id="bajada">
+      <Navbar></Navbar>
 <Footer></Footer>
   </div>
 </template>
 
 <script>
 import Footer from "../components/Footer.vue"
+import Navbar from "../components/Navbar.vue"
 
 export default {
-components: { Footer }
+components: { Navbar, Footer }
 }
 </script>
 
